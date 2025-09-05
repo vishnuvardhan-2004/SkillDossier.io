@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SkillDossier.io/static/css/main.32330fd0.css",
+    "main.js": "/SkillDossier.io/static/js/main.acd06594.js",
+    "index.html": "/SkillDossier.io/index.html",
+    "main.32330fd0.css.map": "/SkillDossier.io/static/css/main.32330fd0.css.map",
+    "main.acd06594.js.map": "/SkillDossier.io/static/js/main.acd06594.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32330fd0.css",
+    "static/js/main.acd06594.js"
+  ]
+}
